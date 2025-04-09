@@ -1,4 +1,4 @@
-#Info  
+# INFO  
 Here you will find two projects, one for Sending the capture event (START) and another one is for Receiving the capture event (START) from the service end for simulation.
 
 You can start the service and try sending the capture event then you can see the working magic.
