@@ -1,2 +1,3 @@
 # CloudPhotoSync
-Cloud Photo Sync framework for Camera photo using producer and consumer model .NET Core
+
+A system that allows to synchronize between Azure Blob Storage and a local file system.

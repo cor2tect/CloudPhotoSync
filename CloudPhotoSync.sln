@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1B9F794D-D526-4ADF-8310-A77577B86161}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudPhotoSync.Service", "src\CloudPhotoSync.Service\CloudPhotoSync.Service.csproj", "{A5C9F48E-EA66-4F15-9853-3E8E4DBA7A1D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CameraControllerDotNetCore", "src\CameraControllerDotNetCore\CameraControllerDotNetCore.csproj", "{C2093A8F-BE24-4EAA-B639-41D51328EA87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5C9F48E-EA66-4F15-9853-3E8E4DBA7A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C9F48E-EA66-4F15-9853-3E8E4DBA7A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C9F48E-EA66-4F15-9853-3E8E4DBA7A1D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A5C9F48E-EA66-4F15-9853-3E8E4DBA7A1D}.Debug|x64.Build.0 = Debug|Any CPU
+		{A5C9F48E-EA66-4F15-9853-3E8E4DBA7A1D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A5C9F48E-EA66-4F15-9853-3E8E4DBA7A1D}.Debug|x86.Build.0 = Debug|Any CPU
+		{A5C9F48E-EA66-4F15-9853-3E8E4DBA7A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C9F48E-EA66-4F15-9853-3E8E4DBA7A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C9F48E-EA66-4F15-9853-3E8E4DBA7A1D}.Release|x64.ActiveCfg = Release|Any CPU
+		{A5C9F48E-EA66-4F15-9853-3E8E4DBA7A1D}.Release|x64.Build.0 = Release|Any CPU
+		{A5C9F48E-EA66-4F15-9853-3E8E4DBA7A1D}.Release|x86.ActiveCfg = Release|Any CPU
+		{A5C9F48E-EA66-4F15-9853-3E8E4DBA7A1D}.Release|x86.Build.0 = Release|Any CPU
+		{C2093A8F-BE24-4EAA-B639-41D51328EA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2093A8F-BE24-4EAA-B639-41D51328EA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2093A8F-BE24-4EAA-B639-41D51328EA87}.Debug|x64.ActiveCfg = Debug|x64
+		{C2093A8F-BE24-4EAA-B639-41D51328EA87}.Debug|x64.Build.0 = Debug|x64
+		{C2093A8F-BE24-4EAA-B639-41D51328EA87}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C2093A8F-BE24-4EAA-B639-41D51328EA87}.Debug|x86.Build.0 = Debug|Any CPU
+		{C2093A8F-BE24-4EAA-B639-41D51328EA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2093A8F-BE24-4EAA-B639-41D51328EA87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2093A8F-BE24-4EAA-B639-41D51328EA87}.Release|x64.ActiveCfg = Release|x64
+		{C2093A8F-BE24-4EAA-B639-41D51328EA87}.Release|x64.Build.0 = Release|x64
+		{C2093A8F-BE24-4EAA-B639-41D51328EA87}.Release|x86.ActiveCfg = Release|Any CPU
+		{C2093A8F-BE24-4EAA-B639-41D51328EA87}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A5C9F48E-EA66-4F15-9853-3E8E4DBA7A1D} = {1B9F794D-D526-4ADF-8310-A77577B86161}
+		{C2093A8F-BE24-4EAA-B639-41D51328EA87} = {1B9F794D-D526-4ADF-8310-A77577B86161}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C991C607-4709-4D3C-A881-5233894E65BD}
+	EndGlobalSection
+EndGlobal
