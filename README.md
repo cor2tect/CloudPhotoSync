@@ -9,3 +9,11 @@ Then put them with your main binary/service files.
 <br/>
 There are both 32-bit (x86) and 64-bit (x64) version. Please use according to your requirmeents.
 
+# Idea(s)
+You can implement this idea or enhance it using other SDKs for camera device like Mobile camera, DSLR camera, powershot camera ... etc to streamline photo service businesses for our community.
+
+# Feedback(s)
+Feel free to let me know if you find any issues / bugs for improvement from design perspective, I would love it.
+
+Let me know if you find it useful or use it for your own or client businesses, love to hear about it more.
+Thank You!
