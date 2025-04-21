@@ -8,8 +8,8 @@ https://www.usa.canon.com/support/sdk
 
 After downloading the EDSDK or if you already have, then please copy and paste those two (2) files into your main binary/service files.
 1. EDSDK.dll
-2. EdsImage.dll
-<br/>There are both 32-bit (x86) and 64-bit (x64) version. Please use according to your requirmeents.
+2. EdsImage.dll<br/>
+There are both 32-bit (x86) and 64-bit (x64) version. Please use according to your requirmeents.
 
 # Idea(s)
 You can implement this idea or enhance it using other SDKs for camera device like DSLR/Mirrorless/Powershot/USB camera ... etc to streamline photo service businesses for our community.
