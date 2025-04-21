@@ -2,9 +2,9 @@
 A system that allows to synchronize between Azure Blob Storage and a local file system.
 
 # Canon EDSDK Dependencies
-Please collect Canon EDSDK dll files by registering from Canon USA/EU site.
-https://www.canon-europe.com/business/imaging-solutions/sdk/
-https://www.usa.canon.com/support/sdk
+Please collect Canon EDSDK dll files by registering from Canon USA/EU site.  
+https://www.canon-europe.com/business/imaging-solutions/sdk/  
+https://www.usa.canon.com/support/sdk  
 
 Then put them with your main binary/service files.
 1. EDSDK.dll
