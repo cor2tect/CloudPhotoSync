@@ -6,7 +6,7 @@ Please collect Canon EDSDK dll files by registering from Canon USA/EU site.
 https://www.canon-europe.com/business/imaging-solutions/sdk/  
 https://www.usa.canon.com/support/sdk  
 
-Then put them with your main binary/service files.
+After downloading the EDSDK or if you already have, then please copy and paste those two (2) files into your main binary/service files.
 1. EDSDK.dll
 2. EdsImage.dll
 <br/>
